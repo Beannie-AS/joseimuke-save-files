@@ -45,11 +45,9 @@ Also acceptable:
 
 You may submit save files in either of the following ways:
 
-### Option 1: GitHub Issues (Recommended)?
-Open a new Issue and include the required information listed below, along with a download link. 
+### Option 1: GitHub Issues (Recommended)
+Open a new Issue and include the required information listed below, along with a download lin (for example via Google Drive, Mega, Pixeldrain) or as attachment.
 
-### Option 2: External Hosts
-Google Drive, Mega,Pixeldrain,...
 
 ### Option 3: AS website
 
