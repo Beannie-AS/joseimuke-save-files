@@ -46,9 +46,14 @@ Also acceptable:
 You may submit save files in either of the following ways:
 
 ### Option 1: GitHub Issues (Recommended)?
-Open a new Issue and include the required information listed below, along with a download link.
+Open a new Issue and include the required information listed below, along with a download link. 
 
-### Option 2: AS website
+### Option 2: External Hosts
+Google Drive, Mega,Pixeldrain,...
+
+### Option 3: AS website
+
+
 ---
 
 ## Submission Format
@@ -79,7 +84,7 @@ Please include **all** of the following information:
   (e.g. C:\Users\...\GameName\Saves or console-specific paths)
 
 - **Download URL:**  
-  A ZIP file hosted externally (Google Drive, MEGA, etc.)
+  A ZIP file hosted externally (Google Drive, MEGA, etc.) or alternatively DM via AS or via Issues page
 
 ---
 
